@@ -1,0 +1,2 @@
+This text file is created as a part of my hw13_Git-GitHub.
+Today is Monday and this hw is due on Wednesday at 4:10pm.
