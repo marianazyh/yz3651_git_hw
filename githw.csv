@@ -2,4 +2,9 @@ This csv file is created as a part of my hw13_Git-GitHub.
 Today is Monday, November 4.
 
 Update:
+<<<<<<< HEAD
 I swtiched back to the master branch and now add this different update on it. 
+=======
+I just created a new branch named feature1 and am now adding this update
+on the new branch. 
+>>>>>>> feature1
